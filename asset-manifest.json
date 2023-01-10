@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r-mini-projects/static/css/main.a93b1e85.css",
+    "main.js": "/r-mini-projects/static/js/main.9428432b.js",
+    "index.html": "/r-mini-projects/index.html",
+    "main.a93b1e85.css.map": "/r-mini-projects/static/css/main.a93b1e85.css.map",
+    "main.9428432b.js.map": "/r-mini-projects/static/js/main.9428432b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93b1e85.css",
+    "static/js/main.9428432b.js"
+  ]
+}
