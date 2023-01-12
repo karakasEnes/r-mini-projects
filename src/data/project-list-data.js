@@ -75,6 +75,27 @@ const projectList = [
     gitLink: "https://github.com/karakasEnes/r-cocktails",
     liveLink: "https://karakasenes.github.io/r-cocktails",
   },
+
+  {
+    id: 13,
+    projectName: "Markdown",
+    gitLink: "https://github.com/karakasEnes/r-markdown",
+    liveLink: "https://karakasenes.github.io/r-markdown",
+  },
+
+  {
+    id: 14,
+    projectName: "Random Person",
+    gitLink: "https://github.com/karakasEnes/r-random-person",
+    liveLink: "https://karakasenes.github.io/r-random-person",
+  },
+
+  {
+    id: 15,
+    projectName: "Pagination",
+    gitLink: "https://github.com/karakasEnes/r-pagination",
+    liveLink: "https://karakasenes.github.io/r-pagination",
+  },
 ];
 
 export default projectList;
